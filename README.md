@@ -136,6 +136,14 @@ MIT License — See LICENSE file for details.
 
 ---
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/8b5eb85b-7515-46ae-97d7-dd6099b57487)
+![image](https://github.com/user-attachments/assets/a26be9d5-e5a2-4c89-8765-5fe5cc798d41)
+![image](https://github.com/user-attachments/assets/a70f971c-32ab-4d44-bb66-7d6451229df7)
+
+
+---
+
 ## 🔑 Keywords
 
 `Node.js registration form`, `Express MongoDB signup`, `Bootstrap 5 user form`,  
